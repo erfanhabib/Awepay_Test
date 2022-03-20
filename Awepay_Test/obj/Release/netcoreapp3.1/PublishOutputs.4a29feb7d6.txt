@@ -1,0 +1,15 @@
+C:\Users\erfan.habib\source\repos\Awepay_Test\Awepay_Test\obj\Release\netcoreapp3.1\PubTmp\Out\Awepay_Test.exe
+C:\Users\erfan.habib\source\repos\Awepay_Test\Awepay_Test\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+C:\Users\erfan.habib\source\repos\Awepay_Test\Awepay_Test\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+C:\Users\erfan.habib\source\repos\Awepay_Test\Awepay_Test\obj\Release\netcoreapp3.1\PubTmp\Out\Awepay_Test.dll
+C:\Users\erfan.habib\source\repos\Awepay_Test\Awepay_Test\obj\Release\netcoreapp3.1\PubTmp\Out\Awepay_Test.deps.json
+C:\Users\erfan.habib\source\repos\Awepay_Test\Awepay_Test\obj\Release\netcoreapp3.1\PubTmp\Out\Awepay_Test.runtimeconfig.json
+C:\Users\erfan.habib\source\repos\Awepay_Test\Awepay_Test\obj\Release\netcoreapp3.1\PubTmp\Out\Awepay_Test.pdb
+C:\Users\erfan.habib\source\repos\Awepay_Test\Awepay_Test\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\erfan.habib\source\repos\Awepay_Test\Awepay_Test\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\erfan.habib\source\repos\Awepay_Test\Awepay_Test\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\erfan.habib\source\repos\Awepay_Test\Awepay_Test\obj\Release\netcoreapp3.1\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\erfan.habib\source\repos\Awepay_Test\Awepay_Test\obj\Release\netcoreapp3.1\PubTmp\Out\Newtonsoft.Json.Bson.dll
+C:\Users\erfan.habib\source\repos\Awepay_Test\Awepay_Test\obj\Release\netcoreapp3.1\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\erfan.habib\source\repos\Awepay_Test\Awepay_Test\obj\Release\netcoreapp3.1\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\erfan.habib\source\repos\Awepay_Test\Awepay_Test\obj\Release\netcoreapp3.1\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
